@@ -1,0 +1,14 @@
+.container{
+  transform: translateY(250px);
+  border-radius: 10px;
+  background-color: rgb(0,191,255,0.1);
+}
+
+h2,p{
+  text-align: center;
+  padding-top: auto;
+}
+
+p{
+transform: translateY(20px);
+}

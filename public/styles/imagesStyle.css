@@ -1,0 +1,26 @@
+.carousel-inner img {
+      width: 100%;
+  }
+
+ .header .navbar {
+  background-color: transparent !important;
+  border-bottom: 1px solid black;
+}
+
+.menu-fixed{
+  position: fixed;
+  z-index: 10000;
+}
+
+.container{
+  transform: translateY(50px);
+}
+
+.carousel-inner{
+ background-color: white;
+  border-radius: 20px;
+}
+
+body{
+  background: "https://pixabay.com/es/photos/retroiluminado-estrellas-1845281/";
+}
